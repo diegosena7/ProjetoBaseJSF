@@ -4,5 +4,6 @@ Esse projeto consiste em evitar que você fique procurando criar um projeto JSF,
 
 - Versão Tomcat 8.5
 - Java 8  
+- Versão do Primefaces 5.0
 
 Agora é só codar... 
